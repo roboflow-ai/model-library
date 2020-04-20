@@ -1,4 +1,4 @@
-# Roboflow Model library
+# Roboflow Model Library
 
 ## Overview
 
@@ -20,7 +20,7 @@ Any of the below notebooks can be run on Google Colab.
 | Faster R-CNN | TensorFlow (object detection API) | https://github.com/roboflow-ai/tensorflow-object-detection-faster-rcnn | [Blog](https://blog.roboflow.ai/training-a-tensorflow-faster-r-cnn-object-detection-model-on-your-own-dataset/)
 | ResNet34 | FastAI | https://github.com/roboflow-ai/fast-ai-resnet32/blob/master/plant_seedlings_classification.ipynb | Tutorial coming soon!
 
-## Our thoughts on Tradeoffs
+## Choosing a Model
 
 Read more about the tradeoffs in these models and why you might prefer one over another here:
 
