@@ -13,7 +13,7 @@ Any of the below notebooks can be run on Google Colab.
 
 | Model Name  | Framework | Link  | Tutorial  |
 | ------------- | ------------- | ------------ | ------------ |
-| EfficientDet  | PyTorch | https://github.com/roboflow-ai/Monk_Object_Detection |
+| EfficientDet  | PyTorch | https://github.com/roboflow-ai/Monk_Object_Detection | [Blog](https://blog.roboflow.ai/training-efficientdet-object-detection-model-with-a-custom-dataset/)
 | YOLOv3 | PyTorch | https://github.com/roboflow-ai/yolov3 | [Video](https://youtu.be/lJT_KRFLLRY)
 | YOLOv3 | Keras | https://github.com/roboflow-ai/keras-yolo3 | [Blog](https://blog.roboflow.ai/training-a-yolov3-object-detection-model-with-a-custom-dataset/)
 | MobileNetSSDv2 | TensorFlow (object detection API) | https://github.com/roboflow-ai/tensorflow-object-detection-faster-rcnn | [Blog](https://blog.roboflow.ai/training-a-tensorflow-object-detection-model-with-a-custom-dataset/)
