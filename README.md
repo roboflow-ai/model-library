@@ -1,4 +1,4 @@
-# Roboflow Model Library
+# Roboflow Model library
 
 ## Overview
 
@@ -18,13 +18,7 @@ Any of the below notebooks can be run on Google Colab.
 | YOLOv3 | Keras | https://github.com/roboflow-ai/keras-yolo3 | [Blog](https://blog.roboflow.ai/training-a-yolov3-object-detection-model-with-a-custom-dataset/)
 | MobileNetSSDv2 | TensorFlow (object detection API) | https://github.com/roboflow-ai/tensorflow-object-detection-faster-rcnn | [Blog](https://blog.roboflow.ai/training-a-tensorflow-object-detection-model-with-a-custom-dataset/)
 | Faster R-CNN | TensorFlow (object detection API) | https://github.com/roboflow-ai/tensorflow-object-detection-faster-rcnn | [Blog](https://blog.roboflow.ai/training-a-tensorflow-faster-r-cnn-object-detection-model-on-your-own-dataset/)
-| ResNet34 | FastAI | https://github.com/roboflow-ai/fast-ai-resnet32/blob/master/plant_seedlings_classification.ipynb | Tutorial coming soon!
-
-## Choosing a Model
-
-Read more about the tradeoffs in these models and why you might prefer one over another here:
-
-[https://blog.roboflow.ai/yolov3-vs-mobilenet-vs-faster-rcnn/](https://blog.roboflow.ai/yolov3-vs-mobilenet-vs-faster-rcnn/)
+| ResNet32 | FastAI | https://github.com/roboflow-ai/fast-ai-resnet32/blob/master/plant_seedlings_classification.ipynb | Tutorial coming soon!
 
 
 ## Contributing
